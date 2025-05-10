@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;}
+    
+
+h1{ 
+    color: white;
+    font-size: arial;
+    font-size: 80px;
+    margin: 0;
+}
+
+img{
+    width: 25%;
+    height: auto;
+}
+
+button{
+    background-color: white;
+    color: black;
+
+}
